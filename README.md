@@ -1,3 +1,4 @@
 # botfloapp.github.io
 
-The website has moved to https://courses.botflo.com
+The website has moved to [BotFlo Courses](https://courses.botflo.com)
+
